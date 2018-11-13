@@ -8,6 +8,8 @@ Chacun se doit d'être:
 - Respectueux et à l'écoute 
 - Avoir un microphone audible.
 
+Chaque cours aura lieu le Vendredi soir de 21h à minuit (grand maximum.. Tout dépend des cours). Pour vous inscrire, contactez-moi par MP sur discord ou directement par le biais des issues GITHUB.
+
 ## Les cours en résumé
 
 | Nom | Durée | Description |
