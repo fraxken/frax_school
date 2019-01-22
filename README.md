@@ -8,7 +8,9 @@ Chacun se doit d'être:
 - Respectueux et à l'écoute 
 - Avoir un microphone audible.
 
-> N'hésitez pas à me demander des cours directement. Je suis disponible quasiment tout les jours ! 
+## Avoir un cours
+
+Les cours ne sont plus organisés à date fixe (sauf je décide de moi-même d'organiser un cours précis). Si vous souhaitez avoir un cours sur un sujet précis, n'hésitez pas à me MP sur discord ou à créer une issue ici.
 
 ## Les cours en résumé
 
