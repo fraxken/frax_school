@@ -1,7 +1,7 @@
 # Fraxken School
-Formation Node.js et JavaScript gratuite.
+Formation Node.js et Javascript **gratuite**.
 
-Je propose sur mon temps libre des cours gratuits pendant deux à trois heures chaque semaine. Chaque session est limitée à trois élèves maximums pour garantir un échange et une communication optimale.
+Je propose sur mon temps libre des cours (voir la liste des sujets ci-dessous). Chaque session est limitée à trois élèves maximums pour garantir un échange et une communication optimale.
 
 Chacun se doit d'être:
 
