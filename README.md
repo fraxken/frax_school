@@ -12,6 +12,8 @@ Chacun se doit d'être:
 
 Les cours ne sont plus organisés à date fixe (sauf je décide de moi-même d'organiser un cours précis). Si vous souhaitez avoir un cours sur un sujet précis, n'hésitez pas à me MP sur discord ou à créer une issue ici.
 
+Discord id `fraxken#8064`
+
 ## Les cours en résumé
 
 | Nom | Durée | Description |
