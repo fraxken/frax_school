@@ -1,4 +1,4 @@
-# Fraxken School
+# Cours gratuit
 Formation Node.js et Javascript **gratuite**.
 
 Je propose sur mon temps libre des cours (voir la liste des sujets ci-dessous). Chaque session est limitée à trois élèves maximums pour garantir un échange et une communication optimale.
@@ -22,3 +22,5 @@ Les cours ne sont plus organisés à date fixe (sauf je décide de moi-même d'o
 | Les bases de JavaScript | 2h | Découverte des bases du JavaScript à partir de 0 |
 | Buffer 4 Ever | 2h | Découverte et expérimentation avec les Buffers de Node.js |
 | Configuration d'un projet Node.js | 2h | Découverte des outils et configuration nécessaire à la mise en place d'un projet Node.js |
+
+Les cours ne sont pas forcément figés... Ce n'est qu'un résumé des sujets que je trouve pertinent et en accord avec ma maîtrise.
