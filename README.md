@@ -10,7 +10,7 @@ Chacun se doit d'être:
 
 ## Avoir un cours
 
-Les cours ne sont plus organisés à date fixe (sauf je décide de moi-même d'organiser un cours précis). Si vous souhaitez avoir un cours sur un sujet précis, n'hésitez pas à me MP sur discord ou à créer une issue ici.
+Les cours ne sont plus organisés à date fixe (sauf si je décide de moi-même d'organiser un cours précis). Si vous souhaitez avoir un cours sur un sujet précis, n'hésitez pas à me MP sur discord ou à créer une issue ici (Rien de spécialement figé dans le marbre, n'hésitez pas à me demander).
 
 Discord id `fraxken#8064`
 
