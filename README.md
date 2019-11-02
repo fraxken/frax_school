@@ -14,6 +14,10 @@ Les cours ne sont plus organisés à date fixe (sauf si je décide de moi-même 
 
 Discord id `fraxken#8064`
 
+Ou rejoindre mon discord pour les cours JS !
+
+[![Cours JS](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/wzezybn)
+
 ## Les cours en résumé
 
 | Nom | Durée | Description |
